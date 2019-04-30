@@ -1,6 +1,6 @@
 {
-  "name": "GCWeb",
-  "version": "Template1.5.1.0-development",
+  "name": "themes-cdn",
+  "version": "5.1.0-development",
   "description": "Web Experience Toolkit (WET): Canada.ca Theme",
   "main": "index.html",
   "scripts": {
