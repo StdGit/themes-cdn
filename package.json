@@ -1,5 +1,5 @@
 {
-  "name": "<%= deployBranch %>",
+  "name": "themes-cdn",
   "version": "5.1.0-development",
   "description": "GCWeb theme",
   "repository": {
