@@ -1,0 +1,15 @@
+{
+  "name": "<%= deployBranch %>",
+  "version": "5.1.0-development",
+  "description": "GCWeb theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wet-boew/themes-cdn.git"
+  },
+  "author": "StdGit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wet-boew/themes-cdn/issues"
+  },
+  "homepage": "https://github.com/wet-boew/themes-cdn#readme"
+}
